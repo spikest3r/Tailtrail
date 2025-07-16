@@ -28,7 +28,7 @@ Game is proof of concept. Not all mechanics are implemented. Simple and most imp
     - &#x2611; Ambient music
 - &#x2610;  Inventory with stats
 - &#x2610; Improved ambiance:
-    - &#x2610; Rain
+    - &#x2611; Rain
         - &#x2610; NPCs comments on weather
     - &#x2610; Random terrain generation
         - &#x2611; Trees and rocks
